@@ -20,7 +20,7 @@ main section {
     height: 725px;
 }
 body {
-    background-color: #B0413E;
+    background-color: #FCAA67;
     font-family: 'Roboto', Helvetica, sans-serif;
     margin: 0;
     padding: 0;
@@ -29,7 +29,7 @@ h2 {
     margin: 0;
 }
 header {
-    background-color: #FCAA67;
+    background-color: #B0413E;
 }
 nav a:hover {
     background-color: #B0413E;
@@ -42,7 +42,7 @@ nav a:hover {
     background-color: #B0413E;
 }
 #background {
-    background-color: #FCAA67;
+    background-color: #B0413E;
 }
 .msg {
     background-color: white;
@@ -166,7 +166,8 @@ nav {
 #hero-msg {
     grid-column: 2/3;
     grid-row: 1/2;
-    margin-top: 100px;
+    margin-top: 200px;
+    font-size: 40px;
 }
 #hero-box {
     grid-column: 1/4;
